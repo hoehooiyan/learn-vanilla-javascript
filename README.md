@@ -2,4 +2,4 @@
 Practice Vanilla JavaScript
 
 ### 01-Accordion
-Live on [Menu Accordion](https://menu-accordion.netlify.com)
+Live on this site > [Menu Accordion](https://menu-accordion.netlify.com)
